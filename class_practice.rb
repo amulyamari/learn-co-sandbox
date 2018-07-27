@@ -19,3 +19,4 @@ attr_accessor :job
 end
 becca= Facebookprofile.new("Becca", "17")
 becca.bio= "This is my bio"
+becca.job = "This is my job"
