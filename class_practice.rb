@@ -14,7 +14,7 @@ def bio
   @bio
 end
 
-#attr_accessor :job
+attr_accessor :job
 
 end
 becca= Facebookprofile.new("Becca", "17")
