@@ -6,15 +6,15 @@ class Facebookprofile
   end
 
 
-  def bio = (bio)
-    @bio = bio
-  end
+  #def bio = (bio)
+   # @bio = bio
+  #end
 
-  def bio
-    @bio
-  end
+  #def bio
+   # @bio
+  #end
 
-  attr_accessor :job
+  #attr_accessor :job
 
 end
 becca= Facebookprofile.new("Becca", "17")
